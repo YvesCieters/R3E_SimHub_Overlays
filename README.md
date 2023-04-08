@@ -7,7 +7,7 @@ This is a small collection of Simhub overlays I use for Raceroom Racing Experien
 The central cluster and the tire monitor were created by myself.
 The radar and the leaderboards were created by others and modified to my personal preference.
 
-<img src="voorbeeld_delta_ronde_en_sectortijden.jpg" width="280"/>&nbsp;&nbsp;&nbsp;<img src="voorbeeld_radar.jpg" width="280"/>&nbsp;&nbsp;&nbsp;<img src="voorbeeld_layout.jpg" width="280"/>
+<img src="voorbeeld_delta_ronde_en_sectortijden.jpg" width="270"/>&nbsp;&nbsp;&nbsp;<img src="voorbeeld_radar.jpg" width="270"/>&nbsp;&nbsp;&nbsp;<img src="voorbeeld_layout.jpg" width="270"/>
 
 ## How to use
 
