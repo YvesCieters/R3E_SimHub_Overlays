@@ -7,6 +7,14 @@ This is a small collection of Simhub overlays I use for Raceroom Racing Experien
 The central cluster and the tire monitor were created by myself.
 The radar and the leaderboards were created by others and modified to my personal preference.
 
+While these SimHub overlays are quite usable and helpful for me in their current state, they are still a work in progress with some known issues and room for improvement.
+I built these for myself as an alternative to a very popular R3E webhud that was failing me, causing ruined races and blank screens.
+I'm happy with the results so far and thought they might be worth sharing.
+If you find any issues or have suggestions, feel free to create a github issue.
+I'm not making any promises as this is more of a personal playground than it is a proper open source endeavour.
+
+Have fun on the virtual track!
+
 <img src="voorbeeld_delta_ronde_en_sectortijden.jpg" width="260"/>&nbsp;&nbsp;&nbsp;<img src="voorbeeld_radar.jpg" width="260"/>&nbsp;&nbsp;&nbsp;<img src="voorbeeld_layout.jpg" width="260"/>
 
 ## How to use
